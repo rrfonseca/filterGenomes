@@ -1,4 +1,4 @@
-# prepareReferenceGenomesNonModel
+# from assemblies to Reference Genomes
 
 #sums length of fasta seq
 #assumes no missing seqs and no missing lines
